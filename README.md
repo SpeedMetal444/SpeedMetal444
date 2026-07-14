@@ -119,6 +119,14 @@ class AbelGodoy:
 | 📄 **CV** | <https://drive.google.com/file/d/1N5lmC9AgoAzBilVBZZcyQu2CrWdxW8AY/view> |
 | 📧 **Email** | `abelgodoy.1802@gmail.com` |
 
+<p align="center">
+  <a href="https://speedmetal444.github.io" target="_blank">
+    <img src="assets/qr-contact.svg" alt="QR Portfolio" width="120" height="120">
+  </a>
+  <br>
+  <sub>Escanea para ir al portfolio</sub>
+</p>
+
 ---
 
 <p align="center">
