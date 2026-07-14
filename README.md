@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://speedmetal444.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-speedmetal444.github.io-0A84FF?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/abel-godoy-675328221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-abel-godoy-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/abel-godoy-675328221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-abel--godoy-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://drive.google.com/file/d/1N5lmC9AgoAzBilVBZZcyQu2CrWdxW8AY/view" target="_blank"><img src="https://img.shields.io/badge/CV-Descargar-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="CV"></a>
   <a href="mailto:abelgodoy.1802@gmail.com"><img src="https://img.shields.io/badge/Email-abelgodoy.1802@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Ubicación-Corrientes%2C%20Argentina-6C757D?style=flat-square&logo=google-maps&logoColor=white" alt="Ubicación">
