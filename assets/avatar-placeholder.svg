@@ -1,0 +1,29 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="avatarBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A84FF"/>
+      <stop offset="100%" stop-color="#30D158"/>
+    </linearGradient>
+    <linearGradient id="avatarFg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e0e0e0"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="200" cy="200" r="200" fill="url(#avatarBg)"/>
+
+  <circle cx="200" cy="200" r="180" fill="none" stroke="url(#avatarFg)" stroke-width="2" stroke-opacity="0.2"/>
+  <circle cx="200" cy="200" r="150" fill="none" stroke="url(#avatarFg)" stroke-width="1" stroke-opacity="0.1"/>
+
+  <text x="200" y="215" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-size="100" font-weight="700" fill="url(#avatarFg)">AG</text>
+
+  <text x="200" y="340" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-size="16" font-weight="500" fill="url(#avatarFg)" fill-opacity="0.8">REPLACE WITH YOUR PHOTO</text>
+
+  <g transform="translate(200, 280)" fill="none" stroke="url(#avatarFg)" stroke-width="2" stroke-opacity="0.5">
+    <rect x="-16" y="-12" width="32" height="20" rx="3"/>
+    <circle cx="0" cy="-2" r="6"/>
+    <rect x="-4" y="-16" width="8" height="6" rx="1"/>
+  </g>
+</svg>

@@ -1,0 +1,102 @@
+<svg width="1280" height="320" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="currentColor" stroke-width="0.3" opacity="0.06"/>
+    </pattern>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A84FF"/>
+      <stop offset="50%" stop-color="#30D158"/>
+      <stop offset="100%" stop-color="#FF9F0A"/>
+    </linearGradient>
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A84FF"/>
+      <stop offset="100%" stop-color="#30D158"/>
+    </linearGradient>
+    <linearGradient id="roleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8E8E93"/>
+      <stop offset="100%" stop-color="#636366"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="var(--canvas-default, #ffffff)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="4" height="320" fill="url(#accentGradient)"/>
+  <rect x="0" y="0" width="1280" height="1.5" fill="url(#accentGradient)" opacity="0.4"/>
+  <rect x="0" y="318.5" width="1280" height="1.5" fill="url(#accentGradient)" opacity="0.4"/>
+
+  <circle cx="1180" cy="60" r="80" fill="#0A84FF" opacity="0.03"/>
+  <circle cx="100" cy="260" r="100" fill="#30D158" opacity="0.03"/>
+  <circle cx="1200" cy="300" r="50" fill="#FF9F0A" opacity="0.02"/>
+
+  <g transform="translate(80, 85)">
+    <text x="0" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+          font-size="40" font-weight="700" fill="url(#nameGradient)" letter-spacing="-0.5px">
+      Abel Godoy
+    </text>
+    <text x="0" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+          font-size="20" font-weight="400" fill="var(--fg-color-default, #1f2328)" opacity="0.85">
+      QA Automation Engineer
+    </text>
+    <text x="0" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+          font-size="15" font-weight="400" fill="var(--fg-color-muted, #656d76)">
+      Python • Java • Kotlin  ·  Desktop, Web & Mobile Testing  ·  FastAPI • PyQt6 • Selenium • Appium • Cucumber
+    </text>
+
+    <g transform="translate(0, 172)">
+      <g class="tech-pill" transform="translate(0, 0)">
+        <rect x="0" y="0" rx="14" height="28" width="95" fill="var(--accent-emphasis, #0A84FF)" fill-opacity="0.1" stroke="var(--accent-emphasis, #0A84FF)" stroke-opacity="0.25" stroke-width="1"/>
+        <text x="47.5" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="var(--accent-emphasis, #0A84FF)">Python</text>
+      </g>
+      <g class="tech-pill" transform="translate(105, 0)">
+        <rect x="0" y="0" rx="14" height="28" width="65" fill="var(--color-fg-success, #30D158)" fill-opacity="0.1" stroke="var(--color-fg-success, #30D158)" stroke-opacity="0.25" stroke-width="1"/>
+        <text x="32.5" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="var(--color-fg-success, #30D158)">Java</text>
+      </g>
+      <g class="tech-pill" transform="translate(180, 0)">
+        <rect x="0" y="0" rx="14" height="28" width="75" fill="#7F52FF" fill-opacity="0.1" stroke="#7F52FF" stroke-opacity="0.25" stroke-width="1"/>
+        <text x="37.5" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#7F52FF">Kotlin</text>
+      </g>
+      <g class="tech-pill" transform="translate(265, 0)">
+        <rect x="0" y="0" rx="14" height="28" width="85" fill="#FF9F0A" fill-opacity="0.1" stroke="#FF9F0A" stroke-opacity="0.25" stroke-width="1"/>
+        <text x="42.5" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#FF9F0A">FastAPI</text>
+      </g>
+      <g class="tech-pill" transform="translate(360, 0)">
+        <rect x="0" y="0" rx="14" height="28" width="70" fill="#4DB33D" fill-opacity="0.1" stroke="#4DB33D" stroke-opacity="0.25" stroke-width="1"/>
+        <text x="35" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#4DB33D">PyQt6</text>
+      </g>
+      <g class="tech-pill" transform="translate(440, 0)">
+        <rect x="0" y="0" rx="14" height="28" width="85" fill="#43B02A" fill-opacity="0.1" stroke="#43B02A" stroke-opacity="0.25" stroke-width="1"/>
+        <text x="42.5" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#43B02A">Selenium</text>
+      </g>
+      <g class="tech-pill" transform="translate(535, 0)">
+        <rect x="0" y="0" rx="14" height="28" width="75" fill="#FF6F61" fill-opacity="0.1" stroke="#FF6F61" stroke-opacity="0.25" stroke-width="1"/>
+        <text x="37.5" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#FF6F61">Appium</text>
+      </g>
+      <g class="tech-pill" transform="translate(620, 0)">
+        <rect x="0" y="0" rx="14" height="28" width="90" fill="#23D96C" fill-opacity="0.1" stroke="#23D96C" stroke-opacity="0.25" stroke-width="1"/>
+        <text x="45" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#23D96C">Cucumber</text>
+      </g>
+      <g class="tech-pill" transform="translate(720, 0)">
+        <rect x="0" y="0" rx="14" height="28" width="95" fill="#2088FF" fill-opacity="0.1" stroke="#2088FF" stroke-opacity="0.25" stroke-width="1"/>
+        <text x="47.5" y="19" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#2088FF">GitHub Actions</text>
+      </g>
+    </g>
+
+    <g transform="translate(0, 225)">
+      <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+            font-size="13" font-weight="400" fill="var(--fg-color-muted, #656d76)">
+        📍 Corrientes, Argentina  ·  🌐 Remote / Hybrid  ·  🕐 UTC-3  ·  ✉️ abelgodoy.1802@gmail.com
+      </text>
+    </g>
+  </g>
+
+  <g transform="translate(1080, 130)" opacity="0.12">
+    <text x="0" y="0" font-family="'SF Mono', 'Fira Code', 'Monospace'" font-size="44" font-weight="300" fill="var(--fg-color-default, #1f2328)">{</text>
+    <text x="0" y="55" font-family="'SF Mono', 'Fira Code', 'Monospace'" font-size="44" font-weight="300" fill="var(--fg-color-default, #1f2328)">}</text>
+  </g>
+
+  <g transform="translate(980, 275)" opacity="0.8">
+    <rect x="0" y="0" rx="10" height="22" width="240" fill="var(--accent-emphasis, #0A84FF)" fill-opacity="0.08" stroke="var(--accent-emphasis, #0A84FF)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="120" y="15" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10" font-weight="600" fill="var(--accent-emphasis, #0A84FF)">Open to opportunities</text>
+  </g>
+</svg>
