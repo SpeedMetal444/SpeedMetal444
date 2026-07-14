@@ -19,120 +19,56 @@
 
 ---
 
-## 👋 Sobre mí
+## &#x1f44b; Sobre m&iacute;
 
-QA Automation Engineer con **4+ años** construyendo arquitecturas de test confiables para plataformas **desktop, web y mobile**. Me especializo en diseñar frameworks de automatización mantenibles (BDD, Page Object, Screenplay), implementar pipelines CI/CD con quality gates y tender puentes entre desarrollo y calidad.
-
-**Filosofía**: *Los tests son documentación. La automatización es un producto. La calidad es responsabilidad de todos.*
-
-```python
-class AbelGodoy:
-    role = "QA Automation Engineer"
-    location = "Corrientes, Argentina 🇦🇷"
-    languages = ["Python", "Java", "Kotlin", "SQL", "JavaScript/TypeScript"]
-    focus = [
-        "Arquitectura de Test & Frameworks",
-        "CI/CD & Quality Gates",
-        "API / Contract / Performance Testing",
-        "Automatización Mobile & Desktop",
-        "Developer Experience (DX) para QA"
-    ]
-    currently_learning = ["Playwright", "k6", "Pact", "Kubernetes", "OpenTelemetry"]
-    open_to = ["Senior QA Automation", "SDET", "Test Architect", "Remote / Híbrido"]
-```
+QA Automation Engineer. Construyo frameworks de automatizaci&oacute;n para plataformas **desktop, web y mobile**, usando BDD y Page Object Model. Desarrollo aplicaciones desktop con Python y PyQt6, backends con FastAPI y PostgreSQL, y clientes Android con Kotlin.
 
 ---
 
-## 🛠 Stack Tecnológico
+## &#x1f6e0; Stack Tecnol&oacute;gico
 
-### Automatización & QA
-`Selenium` `Appium` `Cucumber` `TestNG` `JUnit` `Postman` `Cypress` `Playwright` `Lippia` `ExtentReports` `k6` `Pact`
+### Automatizaci&oacute;n & QA
+`Selenium` `Appium` `Cucumber` `TestNG` `Lippia` `Postman` `ExtentReports` `GitHub Actions`
 
 ### Desarrollo & Backend
-`Python` `Java` `Kotlin` `FastAPI` `Spring Boot` `PostgreSQL` `SQLite` `Docker` `GitHub Actions` `GitLab CI`
+`Python` `Java` `Kotlin` `FastAPI` `PostgreSQL` `SQLite` `PyQt6` `ReportLab`
 
 ### Desktop & Mobile
-`PyQt6` `Android SDK` `Gradle KTS` `PyInstaller` `Inno Setup` `ReportLab`
+`PyInstaller` `Inno Setup` `Android SDK` `Gradle KTS`
 
-### Prácticas & Metodologías
-`BDD` `TDD` `Page Object Model` `Screenplay Pattern` `Contract Testing` `Shift-Left Testing` `Quality Gates` `GitFlow` `Trunk-Based Development` `Observabilidad` `SOLID` `DRY` `Clean Architecture`
+### Aprendiendo
+`Docker` `Playwright` `Cypress`
 
 ---
 
-## 🚀 Proyectos Destacados
+## &#x1f680; Proyectos Destacados
 
-| Proyecto | Stack | Descripción | Highlights |
+| Proyecto | Stack | Descripci&oacute;n | Highlights |
 |----------|-------|-------------|------------|
-| **[HardForms](https://github.com/SpeedMetal444/HardForms)** | Python, PyQt6, SQLite, ReportLab, PyInstaller, Inno Setup | App desktop gestión médica: pacientes, estudios, informes PDF escala de grises (completo/resumen), adjuntos, import/export CSV, backup/restore | **Mejor arquitectura Python** · Modular (MVC) · Dataclasses · QSS theming · 74 commits · v1.0.1 |
-| **[HardAgenda](https://github.com/SpeedMetal444/HardAgenda)** | Python, PyQt6, FastAPI, PostgreSQL, Uvicorn | Sistema turnos cliente-servidor: Desktop (PyQt6) + FastAPI compartido + PostgreSQL. Sync tiempo real, historial, auto-refresh | Fullstack Python · REST API · Servidor compartido p/ Android · 30 commits · v1.1.0 |
-| **[HardAgenda Android](https://github.com/SpeedMetal444/HardAgenda-Android)** | Kotlin, Android SDK, Gradle KTS, FastAPI (server) | Cliente nativo Android para HardAgenda. Material Design, sync offline-first, guía port-forwarding acceso remoto | **Kotlin nativo** · Backend FastAPI compartido · APK release · 6 commits · v1.0.0 |
-| **[InsCar](https://github.com/SpeedMetal444/InsCarProject)** | Python, PyQt6, PostgreSQL, psycopg2, PyInstaller, Inno Setup | Gestión pacientes con alertas vigencia PBS, auditoría historial, export CSV, backup/restore BD, atajos teclado | Desktop healthcare · PostgreSQL · Instalador · 18 commits · v1.0.0 |
-| **[Portfolio](https://github.com/SpeedMetal444/speedmetal444.github.io)** | Vanilla HTML/CSS/JS | Portfolio bilingüe (ES/EN) dark-theme. Responsive, accesible, sin frameworks. SEO-ready, HTML semántico. | GitHub Pages · 8 commits · Live: `speedmetal444.github.io` |
-| **[Lippia AutomationExercise](https://github.com/SpeedMetal444/lippia-automationexercise-web-project)** | Java, Maven, Cucumber, TestNG, Selenium, Lippia, ExtentReports, Docker, GitHub Actions, GitLab CI | Framework BDD enterprise para AutomationExercise e2e. Arquitectura domain-driven, ejecución paralela, reportes custom | 423 commits · Domain-driven · Paralelo · Custom reporters · Docker CI/CD |
+| **[HardForms](https://github.com/SpeedMetal444/HardForms)** | Python, PyQt6, SQLite, ReportLab, PyInstaller, Inno Setup | App desktop gesti&oacute;n m&eacute;dica: pacientes, estudios, informes PDF escala de grises (completo/resumen), adjuntos, import/export CSV, backup/restore | Arquitectura modular (MVC) &middot; Dataclasses &middot; QSS theming &middot; 74 commits &middot; v1.0.1 |
+| **[HardAgenda](https://github.com/SpeedMetal444/HardAgenda)** | Python, PyQt6, FastAPI, PostgreSQL, Uvicorn | Sistema turnos cliente-servidor: Desktop (PyQt6) + FastAPI compartido + PostgreSQL. Sync tiempo real, historial, auto-refresh | Fullstack Python &middot; REST API &middot; Servidor compartido con Android &middot; 30 commits &middot; v1.1.0 |
+| **[HardAgenda Android](https://github.com/SpeedMetal444/HardAgenda-Android)** | Kotlin, Android SDK, Gradle KTS, FastAPI (server) | Cliente nativo Android para HardAgenda. Material Design, consumo de API REST | Kotlin nativo &middot; Backend FastAPI compartido &middot; APK release &middot; v1.0.0 |
+| **[InsCar](https://github.com/SpeedMetal444/InsCarProject)** | Python, PyQt6, PostgreSQL, Inno Setup | Gesti&oacute;n pacientes con alertas vigencia PBS, auditor&iacute;a historial, export CSV, backup/restore BD | Desktop healthcare &middot; PostgreSQL &middot; Instalador &middot; 18 commits &middot; v1.0.0 |
+| **[Portfolio](https://github.com/SpeedMetal444/speedmetal444.github.io)** | Vanilla HTML/CSS/JS | Portfolio biling&uuml;e (ES/EN) dark-theme. Responsive, accesible, sin frameworks. SEO-ready, HTML sem&aacute;ntico | GitHub Pages &middot; 8 commits &middot; Live: `speedmetal444.github.io` |
+| **[Lippia AutomationExercise](https://github.com/SpeedMetal444/lippia-automationexercise-web-project)** | Java, Maven, Cucumber, TestNG, Selenium, Lippia, ExtentReports | Framework BDD para AutomationExercise e2e. Arquitectura domain-driven, ejecuci&oacute;n paralela, reportes custom | 423 commits &middot; Domain-driven &middot; Paralelo &middot; Custom reporters |
 
-> 🔗 **Todos los repositorios**: [github.com/SpeedMetal444?tab=repositories](https://github.com/SpeedMetal444?tab=repositories)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SpeedMetal444&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&locale=es">
-    <img src="https://github-readme-stats.vercel.app/api?username=SpeedMetal444&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&locale=es" alt="GitHub Stats" height="160">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedMetal444&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=es">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedMetal444&layout=compact&theme=default&hide_border=true&langs_count=8&locale=es" alt="Top Languages" height="160">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpeedMetal444&theme=github-dark&hide_border=true&locale=es" alt="GitHub Streak" height="160">
-</p>
+> &#x1f517; **Todos los repositorios**: [github.com/SpeedMetal444?tab=repositories](https://github.com/SpeedMetal444?tab=repositories)
 
 ---
 
-## 🎯 Actualmente trabajando en
+## &#x1f3af; Actualmente trabajando en
 
-- **HardForms v2.0**: Suite de tests con pytest + pytest-qt, CI/CD GitHub Actions, quality gates Ruff/Black/MyPy
-- **HardAgenda**: Observabilidad OpenTelemetry en FastAPI, contract testing Pact entre clientes Android/Desktop
-- **Lippia Framework**: Migración a Playwright para cross-browser, suite performance k6
-
----
-
-## 🔮 Próximos proyectos
-
-- **Framework Python open-source**: Playwright + BDD + Screenplay pattern zero-config
-- **Mobile automation showcase**: Appium + Cucumber + Android/iOS paralelo en Firebase Test Lab
-- **Contract testing demo**: Pact consumer/provider con quality gates GitHub Actions
-- **Performance testing suite**: Scripts k6 con dashboards Grafana para CI/CD
+- **HardForms**: Suite de tests con pytest + pytest-qt.
+- **HardAgenda**: Tests de integraci&oacute;n para la API FastAPI.
+- **Lippia AutomationExercise**: Release formal con changelog.
 
 ---
 
-## 📫 Contacto
+## &#x1f4eb; Contacto
 
 | Canal | Enlace |
 |-------|--------|
-| 🌐 **Portfolio** | <https://speedmetal444.github.io> |
-| 💼 **LinkedIn** | <https://www.linkedin.com/in/abel-godoy-675328221/> |
-| 📄 **CV** | <https://drive.google.com/file/d/1N5lmC9AgoAzBilVBZZcyQu2CrWdxW8AY/view> |
-| 📧 **Email** | `abelgodoy.1802@gmail.com` |
-
-<p align="center">
-  <a href="https://speedmetal444.github.io" target="_blank">
-    <img src="assets/qr-contact.svg" alt="QR Portfolio" width="120" height="120">
-  </a>
-  <br>
-  <sub>Escanea para ir al portfolio</sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SpeedMetal444&style=flat-square&color=0A84FF&label=Visitas+Perfil" alt="Profile Views">
-</p>
-
-<p align="center">
-  <em>Hecho con ❤️ usando Markdown vanilla · Sin frameworks · Compatible light/dark mode</em>
-</p>
+| &#x1f310; **Portfolio** | <https://speedmetal444.github.io> |
+| &#x1f4bc; **LinkedIn** | <https://www.linkedin.com/in/abel-godoy-675328221/> |
+| &#x1f4c4; **CV** | <https://drive.google.com/file/d/1N5lmC9AgoAzBilVBZZcyQu2CrWdxW8AY/view> |
+| &#x1f4e7; **Email** | `abelgodoy.1802@gmail.com` |
