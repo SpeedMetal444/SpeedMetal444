@@ -59,7 +59,7 @@ QA Automation Engineer. Construyo frameworks de automatizaci&oacute;n para plata
 ## &#x1f3af; Actualmente trabajando en
 
 - **HardForms**: Suite de tests con pytest + pytest-qt.
-- **HardAgenda**: Tests de integraci&oacute;n para la API FastAPI.
+- **HardAgenda Android**: Tests de integraci&oacute;n para la API FastAPI.
 - **Lippia AutomationExercise**: Release formal con changelog.
 
 ---
