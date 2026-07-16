@@ -51,6 +51,7 @@ QA Automation Engineer. Construyo frameworks de automatizaci&oacute;n para plata
 | **[InsCar](https://github.com/SpeedMetal444/InsCarProject)** | Python, PyQt6, PostgreSQL, Inno Setup | Gesti&oacute;n pacientes con alertas vigencia PBS, auditor&iacute;a historial, export CSV, backup/restore BD | Desktop healthcare &middot; PostgreSQL &middot; Instalador &middot; 18 commits &middot; v1.0.0 |
 | **[Portfolio](https://github.com/SpeedMetal444/speedmetal444.github.io)** | Vanilla HTML/CSS/JS | Portfolio biling&uuml;e (ES/EN) dark-theme. Responsive, accesible, sin frameworks. SEO-ready, HTML sem&aacute;ntico | GitHub Pages &middot; 8 commits &middot; Live: `speedmetal444.github.io` |
 | **[Lippia AutomationExercise](https://github.com/SpeedMetal444/lippia-automationexercise-web-project)** | Java, Maven, Cucumber, TestNG, Selenium, Lippia, ExtentReports | Framework BDD para AutomationExercise e2e. Arquitectura domain-driven, ejecuci&oacute;n paralela, reportes custom | 423 commits &middot; Domain-driven &middot; Paralelo &middot; Custom reporters |
+| **[Tella Testing Android](https://github.com/Horizontal-org/Tella-Testing-Android)** | Java, Appium, Lippia, TestNG, Git, GitHub Actions | Suite E2E para app Android (Tella Mobile). 50 casos automatizados, mejora de estabilidad del 50%, detecci&oacute;n temprana de defectos | Pasant&iacute;a QA en Horizontal &middot; Appium + Lippia &middot; Scrum |
 
 > &#x1f517; **Todos los repositorios**: [github.com/SpeedMetal444?tab=repositories](https://github.com/SpeedMetal444?tab=repositories)
 
